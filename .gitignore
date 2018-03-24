@@ -1,0 +1,10 @@
+.DS_Store
+*.gz
+*.zip
+**/logs/
+**/checkpoints/
+**/checkpoint/
+**/__pycache__/
+**/.ipynb_checkpoints/
+*ubyte
+save.*
